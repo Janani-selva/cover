@@ -111,10 +111,10 @@ Publish the website in the LocalHost.
   </div>
 </body>
 </html>
-
+```
 
 ## OUTPUT:
-c:\Users\admin\Web\ex6\cover\image.png
+![alt text](<Screenshot 2025-10-30 232119.png>)
 
 
 
