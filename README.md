@@ -114,7 +114,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](image.png)
+c:\Users\admin\Web\ex6\cover\image.png
 
 
 
